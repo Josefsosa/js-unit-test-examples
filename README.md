@@ -1,6 +1,9 @@
 # js-unit-test-examples
 This repository contains a collection of example setups for common JavaScript unit testing frameworks and tools.
 
+- To run these test go into each directory and run npm install
+- Then you can run the script from the packege.Json in each such as npm test
+
 |Example|Coverage|ES6|TypeScript|
 |---|---|---|---|
 |[ava](https://github.com/Wedvich/js-unit-test-examples/tree/master/ava)|:heavy_check_mark:|||
